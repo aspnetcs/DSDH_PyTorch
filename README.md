@@ -62,3 +62,4 @@ Imagenet-tc100: 100 classes, 5000 query images, 10000 training images. mu=5, nu=
 cifar10@ALL | 0.6994 | 0.7052 | 0.7204 | 0.7267 | 0.7345 | 0.7466 | 0.7493
 nus-wide-tc21@5000 | 0.8052| 0.8155 | 0.8317 | 0.8332 | 0.8437 | 0.8478 | 0.8544
 imagenet-tc100@1000 | 0.1622 | 0.1793 | 0.2356 | 0.2808 | 0.3350 | 0.3753 | 0.4274
+http://papers.nips.cc/paper/6842-deep-supervised-discrete-hashing.pdf
