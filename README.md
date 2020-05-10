@@ -1,5 +1,9 @@
 # Deep Supervised Discrete Hashing
 http://papers.nips.cc/paper/6842-deep-supervised-discrete-hashing.pdf
+
+## Reference
+Jiang Q Y , Cui X , Member, et al. Deep Discrete Supervised Hashing[J]. IEEE Transactions on Image Processing, 2017, PP(99).
+
 ## REQUIREMENTS
 `pip install -r requirements.txt`
 
